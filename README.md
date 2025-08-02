@@ -1,1 +1,1 @@
-# document-editor
+# Document Editor
